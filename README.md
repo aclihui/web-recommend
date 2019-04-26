@@ -1,6 +1,6 @@
 # 网站推荐
 ## 工具网址
-1. 代理下载:  https://proxy.qnid.cc/index.php
+1. 代理下载(显著提高下载速度):  https://proxy.qnid.cc/index.php
 2. 部分软件API: https://github.com/jokermonn/-Api
 3. 孟坤实验室(小工具收集): http://web.dajiqq.com/  http://tool.mkblog.cn/
 ## 有趣的网址
